@@ -6,4 +6,4 @@ We build our own software to help the church care for every person: an app and w
 
 **Serve God with your craft.** If you write code and are looking for a church home where your skills matter, we'd love to meet you: [join our Technology Team](https://135main.org/teams/).
 
-[135main.org](https://135main.org) · Springdale, Newfoundland and Labrador
+[135main.org](https://135main.org) · [onethreefive.church](https://onethreefive.church) · Springdale, Newfoundland and Labrador
